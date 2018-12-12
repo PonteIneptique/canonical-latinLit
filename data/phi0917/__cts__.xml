@@ -1,5 +1,10 @@
 <ti:textgroup xmlns:ti="http://chs.harvard.edu/xmlns/cts" projid="latinLit:phi0917" urn="urn:cts:latinLit:phi0917">
         <ti:groupname xml:lang="eng">Lucan</ti:groupname>
         <ti:groupname xml:lang="fr">Lucan</ti:groupname>
+        <cpt:structured-metadata
+                xmlns:cpt="http://purl.org/capitains/ns/1.0#"
+                xmlns:dc="http://purl.org/dc/elements/1.1/">
+                <dc:identifier>https://www.wikidata.org/wiki/Q188646</dc:identifier>
+        </cpt:structured-metadata>
         </ti:textgroup>
     
