@@ -1,7 +1,7 @@
 <ti:textgroup xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:latinLit:phi0978">
 	<ti:groupname xml:lang="eng">Pliny, the Elder</ti:groupname>
     <ti:groupname xml:lang="fre">Pline, l'Ancien (0023-0079)</ti:groupname>
-    <cpt:structured-metadata
+ <cpt:structured-metadata
         xmlns:cpt="http://purl.org/capitains/ns/1.0#"
         xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:identifier>https://www.wikidata.org/wiki/Q82778</dc:identifier>
