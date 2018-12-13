@@ -3,4 +3,9 @@
 <ti:textgroup xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:latinLit:phi0134">
     <ti:groupname xml:lang="eng">Terence</ti:groupname>
     <ti:groupname xml:lang="lat">Publius Terentius Afer</ti:groupname>
+    <cpt:structured-metadata
+        xmlns:cpt="http://purl.org/capitains/ns/1.0#"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:identifier>https://www.wikidata.org/wiki/Q172048</dc:identifier>
+    </cpt:structured-metadata>
 </ti:textgroup>
