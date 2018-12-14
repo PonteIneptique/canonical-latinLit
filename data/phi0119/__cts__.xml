@@ -2,4 +2,9 @@
           <ti:groupname xml:lang="eng">Plautus, Titus Maccius.</ti:groupname>
 <ti:groupname xml:lang="fr">Plaute</ti:groupname>
           </ti:textgroup>
-      
+<cpt:structured-metadata
+        xmlns:cpt="http://purl.org/capitains/ns/1.0#"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:identifier>https://www.wikidata.org/wiki/Q47160</dc:identifier>
+</cpt:structured-metadata>
+</ti:textgroup>
