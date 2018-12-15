@@ -1,6 +1,6 @@
-<ti:textgroup xmlns:ti="http://chs.harvard.edu/xmlns/cts" projid="latinLit:phi0472" urn="urn:cts:latinLit:phi0472">
+<ti:textgroup xmlns:ti="http://chs.harvard.edu/xmlns/cts" projid="latinLit:phi0472"
+    urn="urn:cts:latinLit:phi0472">
     <ti:groupname xml:lang="eng">Catullus</ti:groupname>
     <ti:groupname xml:lang="fr">Catulle</ti:groupname>
-    <ti:identifier>https://fr.wikipedia.org/wiki/Catulle</ti:identifier>
-    </ti:textgroup>
-  
+</ti:textgroup>
+
